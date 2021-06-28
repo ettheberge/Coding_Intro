@@ -16,4 +16,4 @@ TOC:
 
 1. Intro to computational analysis: What does it all mean? <link>
 
-2. UBC/BC Children's Hospital Research Group: Trainee Omics Group: (link)[https://github.com/BCCHR-trainee-omics-group/StudyGroup]. 
+2. UBC/BC Children's Hospital Research Group: Trainee Omics Group (TOG)
