@@ -1,6 +1,6 @@
-## Are you a graduate student gathering and analyzing data?
+## Are you a trainee collecting and analyzing data?
 
-Do you have no idea if coding is right for you and what you want to do with your data?
+Do you have no idea if coding is right for you regarding your analysis plans? 
 
 Do you want to learn how to analyze and conduct statistical analyses on your data quickly and efficiently? 
 
