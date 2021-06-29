@@ -22,7 +22,7 @@ Of course, every trainee has a different background, thesis project and supervis
 
 **Which language is for me?**
 
-Do some Googling of what kind of work you're doing and what others say; R? Python? C++? Matlab? Look at papers to find out what your field uses to conduct their analyses. For me (the writer), I use bash script (on the command line) and R (in RStudio) for my working with big genomics data and wrangling large datasets with a mix of qualitative and quantitative metadata. Among my colleagues, I usually hear that R is preferred as the "first" language, however eventually moving to Bash script/familiarity with the command line may be required!
+Do some Googling of what kind of work you're doing and what others say; R? Python? C++? Matlab? Look at papers to find out what your field uses to conduct their analyses. I - personally, with my novice computational skills at the time writing this - am learning/applying Bash shell script (on the command line) and R (in RStudio) for my thesis work. I'm working with large 'omics data and wrangling associated metadata. Among my colleagues, I usually hear that R is preferred as the "first" language, however eventually moving to Bash script/familiarity with the command line (and python) may be required for you depending on your analyses!
 
 - ["If you had to pick 1 programming language for science"](https://www.quora.com/If-you-had-to-pick-1-programming-language-that-a-scientist-in-the-life-sciences-should-know-what-would-it-be)
 - ["Choose the right programming language"](https://www.mygreatlearning.com/blog/choose-the-right-programming-language/)
