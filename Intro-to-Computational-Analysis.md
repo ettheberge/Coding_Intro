@@ -1,23 +1,8 @@
 ---
 title: "Intro to Computational Analysis"
 author: "Emilie Théberge"
-output: 
-  html_document:
-    keep_md: yes
-    toc: true
-    toc_float: true
-    toc_collapsed: true
-    number_sections: true
-    theme: lumen
+Version 4.0 (June. 2021)
 ---
-
-
-
-**Version 4.0 (June. 2021)**
-
-Thank you for the feedback Paola, Will, Victor, Amy, Almas and Nikita from the Dennis and Robinson labs for feedback throughout versions 1 and 2 (July 2020).
-
-*These chapters assume no prior computer science/coding course experience.*
 
 # Introduction
 
@@ -141,3 +126,7 @@ More programming definitions:
 **Nodes:** A node is a device (ie. personal computer) within a network of other tools that’s able to send, receive, or forward information. Nodes also include devices that connect over Wi-Fi or Ethernet, such as modems, servers and printers. A node may also describe a computer file in a tree data structure; these files are called “leaves” or “leaf nodes”.
 
 **Software:** A collection of data instructions that tells the computer how to work. There’s application software (eg. on a Mac: iTunes and Photo Booth) and system software (eg. MacOS, Linux).
+
+```
+Thank you for the feedback Paola, Will, Victor, Amy, Almas and Nikita from the Dennis and Robinson labs for feedback throughout versions 1 and 2 (July 2020).
+```
