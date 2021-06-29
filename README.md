@@ -16,10 +16,13 @@ Of course, every trainee has a different background, thesis project and supervis
 
 1. Intro to computational analysis: What does it all mean? [Start here.](https://github.com/ettheberge/Coding_Intro/blob/main/Intro-to-Computational-Analysis.md)
 
-2. UBC groups with intro & intermediate resources 
+2. UBC groups with intro & intermediate resources: [Link](https://github.com/ettheberge/Coding_Intro/tree/main/UBC_groups_resources)
 
-<links>
+3. Non-UBC groups/resources [Link](https://github.com/ettheberge/Coding_Intro/tree/main/Student_Groups)
 
-3. Non-UBC groups/resources 
-  
-<links>
+**Which language is for me?**
+
+Do some Googling of what kind of work you're doing and what others say; R? Python? C++? Matlab? Look at papers to find out what your field uses to conduct their analyses. For me (the writer), I use bash script (on the command line) and R (in RStudio) for my working with big genomics data and wrangling large datasets with a mix of qualitative and quantitative metadata. Among my colleagues, I usually hear that R is preferred as the "first" language, however eventually moving to Bash script/familiarity with the command line may be required!
+
+- ["If you had to pick 1 programming language for science"](https://www.quora.com/If-you-had-to-pick-1-programming-language-that-a-scientist-in-the-life-sciences-should-know-what-would-it-be)
+- ["Choose the right programming language"](https://www.mygreatlearning.com/blog/choose-the-right-programming-language/)
