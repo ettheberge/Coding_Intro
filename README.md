@@ -1,4 +1,4 @@
-## Are you a trainee collecting and analyzing data?
+## Are you a trainee in the life sciences collecting and analyzing data?
 
 Do you have no idea if coding is right for you regarding your analysis plans? 
 
