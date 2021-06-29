@@ -6,7 +6,9 @@ Do you want to learn how to analyze and conduct statistical analyses on your dat
 
 Do you want to create beautiful publication-quality plots?
 
-**But:** Do you have no idea where to start?
+Do you have no idea where to start?
+
+Assuming that your answer to some of these questions is "yes": You're in the right place!
 
 The purpose of this repository is to translate some of what I've learned in the last year to other students who may be feeling just as lost as I was. I hope that you, the reader, can benefit from this collection of resources as a starting point to learn the "ABC"s of coding vocabulary and to distinguish which coding languages and environments are right for you.
 
