@@ -20,3 +20,7 @@ UBC's Advanced Research Computing cluster (ARC) Sockeye provides a platform for 
 **[UBC R Study Group](https://github.com/UBC-R-Study-group/studyGroup)**
 
 A handy resource for R/Python/Julia users. 
+
+**[BCCHR Statistics Summer Workshop](https://bcchr.ca/summerprogram/statistical-videos)**
+
+The videos and resources are intended to make learning accessible and provide an introduction to statistical terms and concepts regardless of background and experience. No prior knowledge of statistics is required. 
