@@ -15,6 +15,7 @@ The purpose of this repository is to translate some of what I've learned in the 
 Of course, every trainee has a different background, thesis project and supervisory expectations of their analytical output - but at the end of the day, we're all generating data, and we all have a responsibility to conduct and present out analyses with methods that are as transparent and reproducible as possible, no matter what kind of research (model organism, cellular, computational, etc) that we are conducting. I hope this is helpful in contextualizing the importance of computational skills as a life sciences/genetics researcher.
 
 **1. Intro to computational analysis: What does it all mean?** [Click here](https://github.com/ettheberge/Coding_Intro/blob/main/Intro-to-Computational-Analysis.md)
+
 I wrote this "chapter 1" with the intention to contextualize commonly used terms and jargon that are frequently used in the pages below.
 
 **2. Which language is for me?**
@@ -25,7 +26,9 @@ Do some Googling of what kind of work you're doing and what others say; R? Pytho
 - ["Choose the right programming language"](https://www.mygreatlearning.com/blog/choose-the-right-programming-language/)
 
 **3. UBC groups with intro & intermediate resources:** [Click here](https://github.com/ettheberge/Coding_Intro/tree/main/UBC_groups_resources)
+
 UBC and its affiliated hospitals have many workshops and resources available for students; highlighted here are key intro/intermediate tutorials and walk-throughs that should help you get your feet on the ground!
 
 **4. Non-UBC groups/resources:** [Click here](https://github.com/ettheberge/Coding_Intro/tree/main/Student_Groups)
+
 The internet is wonderful but also massive; in this page are a number of pages that I - or my friends/colleagues - have referred to and recommend for trainees new to computational analysis.
