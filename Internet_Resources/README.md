@@ -20,8 +20,14 @@
 
 ## Command Line: Bash Shell script
 
-[Ryan's tutorials](https://ryanstutorials.net/bash-scripting-tutorial/) - Honestly my #1 go-to for Bash-related intro tutorials.
+[What is the difference between UNIX, Linux, Bash, Zsh, shell programming, and shell scripting? What is meant by the word "shell"?](https://www.quora.com/What-is-the-difference-between-UNIX-Linux-Bash-Zsh-shell-programming-and-shell-scripting-What-is-meant-by-the-word-shell)
+
+[Ryan's tutorials](https://ryanstutorials.net/bash-scripting-tutorial/) - My go-to for bash scripting.
+
+[UNIX tutorial for beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/) -  Similar to ^, also a staple.
 
 [Bash shell cheat sheet](https://www.educative.io/blog/bash-shell-command-cheat-sheet) - Speaks for itself.
+
+[UNIX cheat sheet](http://squirrel.sr.unh.edu/~jraeder/795895/uploads/UNIXCheatSheet.pdf) - Also speaks for itself.
 
 [Introduction to Bash (Shell) and Manipulating Files and Directores at the Command Line](https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/bash/) - Helpful starter to Bash.
