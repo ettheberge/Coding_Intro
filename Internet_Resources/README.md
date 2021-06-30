@@ -1,18 +1,18 @@
 **General**
 
-[Stackoverflow](https://stackoverflow.com/) is THE forum where someone's probably asked the exact same question you've had. So much of my steep learning curve has just been Googling a ton of "how to do __ " and being directed to a thread in Stack.
+[Stackoverflow](https://stackoverflow.com/) - THE forum where someone's probably asked the exact same question you've had. So much of my steep learning curve has just been Googling a ton of "how to do __ " and being directed to a thread in Stack.
 
-[Bioconductor](https://support.bioconductor.org/) is helpful for genomics-specific questions.
+[Bioconductor](https://support.bioconductor.org/) - A helpful forum for genomics-specific questions.
 
 **R/Statistics**
 
-[The Tidyverse](https://www.tidyverse.org/packages/). - Honestly, I can't recommend enough how much to start early/ do everything in the tidyverse. It'll make your life so much easier.   
+[The Tidyverse](https://www.tidyverse.org/packages/) - Honestly, I can't recommend enough how much to start early/ do everything in the tidyverse. It'll make your life so much easier.   
 
-[Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) Part of the tidyverse, very important set of functions for data wrangling!
+[Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) - Part of the tidyverse, very important set of functions for data wrangling!
 
-[The STHDA website](http://www.sthda.com/english/wiki/ggplot2-essentials) is my #1 go-to for anything to do with R/ggplot2 for making every type of plot. `ggplot2` is under the tidyverse. I also recommend looking into `ggpubr` for making publication-quality plots. 
+[The STHDA website](http://www.sthda.com/english/wiki/ggplot2-essentials) - My #1 go-to for anything to do with R/ggplot2 for making every type of plot. `ggplot2` is under the tidyverse. I also recommend looking into `ggpubr` for making publication-quality plots. 
 
-[Intro to the field of statistics (and R)](https://stat150.blog/) is a non-UBC course (all materials on the site) I wish I could've self-taught from sooner. Very helpful resource that compliments UBC's STAT 545/540 (I would go through this course-->545-->540.)
+[Intro to the field of statistics (and R)](https://stat150.blog/) - A non-UBC course (all materials on the site) that I wish I could've self-taught from sooner. Very helpful resource that compliments UBC's STAT 545/540 (I would go through this course-->545-->540.)
 
 [Marin lectures: Statistics in R](https://www.statslectures.com/) - This series is a+. I always go back to it.
 
@@ -25,4 +25,4 @@
 
 [Bash shell cheat sheet](https://www.educative.io/blog/bash-shell-command-cheat-sheet) - Speaks for itself.
 
-[Introduction to Bash (Shell) and Manipulating Files and Directores at the Command Line](https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/bash/) - Helpful starter.
+[Introduction to Bash (Shell) and Manipulating Files and Directores at the Command Line](https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/bash/) - Helpful starter to Bash.
