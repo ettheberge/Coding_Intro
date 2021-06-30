@@ -20,7 +20,7 @@ This page is to supplement the great resources at UBC (ie. STAT 540 and 545) [he
 
 [Statquest](https://www.youtube.com/user/joshstarmer) - Also incredible for explaining statistical concepts. Doesn't contextualize in R, though, but that can be fixed with a quick Google. (ie "how do do logistic regression in R" hint: `glm`)
 
-## Command Line: Bash Shell script
+## Bash/UNIX
 
 [What is the difference between UNIX, Linux, Bash, Zsh, shell programming, and shell scripting? What is meant by the word "shell"?](https://www.quora.com/What-is-the-difference-between-UNIX-Linux-Bash-Zsh-shell-programming-and-shell-scripting-What-is-meant-by-the-word-shell)
 
