@@ -10,6 +10,8 @@ The Trainee Omics Groups (TOG) is based at the BC Children's Hospital Research I
 
 **2. Graspods (BC Cancer Agency)**
 
+Graspods is a graduate student & postdoc group based out of BC Cancer Agency, and facilitates a number of social events, seminars and workshops. Trainees who do not work at BC Cancer are welcome to participate in their workshops and events.
+
 - Email: graspodsexec@bccrc.ca
 - [Website](http://www.graspods.com/)
 - [Twitter](https://twitter.com/GrasPods)
