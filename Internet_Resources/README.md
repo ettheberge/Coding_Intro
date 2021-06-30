@@ -7,6 +7,8 @@
 
 [The STHDA website](http://www.sthda.com/english/wiki/ggplot2-essentials) is my #1 go-to for anything to do with R/ggplot2 for making every type of plot. Requires the `ggplot` library to be installed. I also recommend looking into `ggpubr` for making publication-quality plots. 
 
+[Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) Honestly, just do everything in the tidyverse. It'll make your life so much easier. 
+
 [Intro to the field of statistics (and R)](https://stat150.blog/) is a non-UBC course (all materials on the site) I wish I could've taken sooner. Very helpful resource that compliments UBC's STAT 545/540.
 
 [Marin lectures: Statistics in R](https://www.statslectures.com/) - this guy is incredible. 
