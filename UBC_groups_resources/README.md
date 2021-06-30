@@ -9,3 +9,5 @@ Their github page has a number of broadly applicable workshops and tutorials.
 
 **[UBC ARC Sockeye Website/Help team](https://arc.ubc.ca/ubc-arc-sockeye)**
 UBC's Advanced Research Computing cluster (ARC) Sockeye provides a platform for researchers to conduct resource-heavy (high-throughput) research through their system.
+
+**UBC R Study Group(https://github.com/UBC-R-Study-group/studyGroup)**
