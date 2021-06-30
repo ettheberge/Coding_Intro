@@ -8,15 +8,15 @@ Version 4.0 (June. 2021)
 
 Code is a language. A basic understanding of common vocabulary and programming concepts is essential to be able to follow and customize code shared by other users to use in your own analyses; nefore being able to work with data and apply tools using the R or Python languages in RStudio or the command line (ie. via Terminal/Sockeye), you need to learn the language's "alphabet" - imagine you're a native English speaker learning Russian, Greek or Korean for the first time. How can you read without knowing the alphabet? Right. 
 
-Without this essential foundation, annotations and explanations of specific code created by users for other users might look and sound like gibberish. This document is to help you get a "lay of the land" and learn that alphabet and key vocabulary.
+Without this essential foundation, annotations and explanations of specific code created by users for other users might look and sound like gibberish. This document is to help you get a "lay of the land" and learn the key vocabulary.
  
-Back to learning code: When self-teaching or following a course, it's important to be able to recognize what level you're at, and if the material is the right level for your understanding at that moment. If you jump into searching for and applying complex code from other authors too soon, without understanding the basics, you may overwhelm yourself and be lost. Metaphorically, this is like a Russian teacher asking you to compose your own sentences and essays with the new language before you’ve finished learning the Russian alphabet and basic grammar tenets. This would be like copy/pasting from previously written essays, and just hoping that there’s some sort of logical flow achieved and no grammar errors come up. (This is a metaphor for when your code doesn’t work and you don’t know why.)
+Back to learning a programming language: When self-teaching or following a course, it's important to be able to recognize what level you're at, and if the material is the right level for your understanding at that moment. If you jump into searching for and applying complex code from other authors too soon, without understanding the basics, you may overwhelm yourself and get lost. Metaphorically, this is like a Russian teacher asking you to compose your own sentences and essays with the new language before you’ve finished learning the Russian alphabet and basic grammar tenets; applying complex code "too soon" would be like copy/pasting from previously written essays, and just hoping that there’s some sort of logical flow achieved and no grammar errors come up. (This is a metaphor for when your code doesn’t work and you don’t know why.)
  
-If something goes wrong within your editing of someone else’s code to fit your own data, it’s vital to understand the basics of this analogous coding “alphabet” and “grammar” to fall back on when troubleshooting, and know the best online resources available for where to look for help. Learning the details of specific packages is not what will be covered in this document; this document will contextualize learning what a package is, and other basic statements when learning and applying programming languages.  
+If something goes wrong within your editing of someone else’s code to fit your own data, it’s vital to understand the basics of this analogous coding “alphabet” and “grammar” to fall back on when troubleshooting, and know the best online resources available for where to look for help (see pages [3](https://github.com/ettheberge/Coding_Intro/tree/main/Student_Groups), [4](https://github.com/ettheberge/Coding_Intro/tree/main/UBC_groups_resources) and [5](https://github.com/ettheberge/Coding_Intro/tree/main/Internet_Resources). 
+
+This page is not going to go into the details of specific packages do and how to edit them (ie. `ggplot2` in R); I will first contextualize learning what a package **is**, and other basic statements when learning and applying programming languages.  
  
-Each language and environment has its own host of materials on the internet to get you familiar with more details. Many free courses and walkthroughs with different iterations of “Intro to _(package name)_ in (R/bash)” are available, which are in another folder in this github repository. Speaking from personal experience, I would recommend looking at these more specific tutorials (eg. TOG workshops to apply specific packages in R) *after* learning some programming basics as introduced in this document.
- 
-The aim is for you to have these programming basics contextualized before putting these languages and environments into more specific use through the different avenues your graduate thesis project process may take. 
+Each language and environment has its own host of materials on the internet to get you familiar with more details. Many free courses and walkthroughs with different iterations of “Intro to _(package name)_ in (R/bash)” are available, which are in another folder in this github repository. Speaking from personal experience, I would recommend looking at these more specific tutorials (eg. TOG workshops to apply specific packages in R) *after* learning some programming basics as introduced in this page.
  
 # Coding languages and environments
 
@@ -92,7 +92,7 @@ For all types of -omics analyses, as well as integrating non-omics variables (eg
 
 **Package:** A collection of functions and data sets developed by the community. 
 
-* These have to be installed manually/individually through the R console using install.packages() function. 
+* These have to be installed manually/individually through the R console using the `install.packages()` function. 
 
 **Library:** A collection of packages. Offers a set of functionalities without worrying about subsequent packages. A library is what you include when you want to add some functionality to your code. Very similar in definition to a repository (which is a more private kind of library).  
 
