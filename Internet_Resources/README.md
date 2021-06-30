@@ -33,3 +33,7 @@ This page is to supplement the great resources at UBC (ie. STAT 540 and 545) [he
 [UNIX cheat sheet](http://squirrel.sr.unh.edu/~jraeder/795895/uploads/UNIXCheatSheet.pdf) - Also speaks for itself.
 
 [Introduction to Bash (Shell) and Manipulating Files and Directores at the Command Line](https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/bash/) - Helpful starter to Bash.
+
+## Twitter threads: A bit of everything
+
+[Dr. Michael Hoffman: "Folks with mainly biology training sometimes ask me for resources that can help them learn bioinformatics. This short thread has my recommendations at various levels."](https://twitter.com/michaelhoffman/status/1407143481479503873?s=21&fbclid=IwAR0as1P-vEFRwYV8weXYXwTLjD8AAvQO_F_YPWHVsgNZzBXpklE0Ut-IAWI)
