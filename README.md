@@ -25,10 +25,14 @@ Do some Googling of what kind of work you're doing and what others say; R? Pytho
 - ["If you had to pick 1 programming language for science"](https://www.quora.com/If-you-had-to-pick-1-programming-language-that-a-scientist-in-the-life-sciences-should-know-what-would-it-be)
 - ["Choose the right programming language"](https://www.mygreatlearning.com/blog/choose-the-right-programming-language/)
 
-**3. UBC groups with intro & intermediate resources:** [Click here](https://github.com/ettheberge/Coding_Intro/tree/main/Student_Groups)
+**3. UBC student groups:** [Click here](https://github.com/ettheberge/Coding_Intro/tree/main/Student_Groups)
 
-UBC and its affiliated hospitals have many workshops and resources available for students; highlighted here are key intro/intermediate tutorials and walk-throughs that should help you get your feet on the ground!
+UBC and its affiliated hospitals have many student groups who have designed and executed by students, for students. This page highlights key intro/intermediate tutorials and walk-throughs that should help you get your feet on the ground!
 
-**4. Non-UBC groups/resources:** [Click here](https://github.com/ettheberge/Coding_Intro/tree/main/UBC_groups_resources)
+**4. UBC resources:** [Click here](https://github.com/ettheberge/Coding_Intro/tree/main/UBC_groups_resources)
+
+UBC itself has several departments with potentially relevant resources and tools.
+
+**5. Helpful non-UBC resources:**[Click here](https://github.com/ettheberge/Coding_Intro/tree/main/Internet_Resources)
 
 The internet is wonderful but also massive; in this page are a number of pages that I - or my friends/colleagues - have referred to and recommend for trainees new to computational analysis.
