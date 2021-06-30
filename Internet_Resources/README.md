@@ -1,3 +1,5 @@
+This page is to supplement the great resources at UBC (ie. STAT 540 and 545) [here](https://github.com/ettheberge/Coding_Intro/tree/main/UBC_groups_resources).
+
 ## General
 
 [Stackoverflow](https://stackoverflow.com/) - THE forum where someone's probably asked the exact same question you've had. So much of my steep learning curve has just been Googling a ton of "how to do __ " and being directed to a thread in Stack.
