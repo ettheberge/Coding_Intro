@@ -1,10 +1,10 @@
-**General**
+# General
 
 [Stackoverflow](https://stackoverflow.com/) - THE forum where someone's probably asked the exact same question you've had. So much of my steep learning curve has just been Googling a ton of "how to do __ " and being directed to a thread in Stack.
 
 [Bioconductor](https://support.bioconductor.org/) - A helpful forum for genomics-specific questions.
 
-**R/Statistics**
+# R/Statistics
 
 [The Tidyverse](https://www.tidyverse.org/packages/) - Honestly, I can't recommend enough how much to start early/ do everything in the tidyverse. It'll make your life so much easier.   
 
@@ -18,8 +18,7 @@
 
 [Statquest](https://www.youtube.com/user/joshstarmer) - Also incredible for explaining statistical concepts. Doesn't contextualize in R, though, but that can be fixed with a quick Google. (ie "how do do logistic regression in R" hint: `glm`)
 
-
-**Command Line: Bash Shell script**
+# Command Line: Bash Shell script
 
 [Ryan's tutorials](https://ryanstutorials.net/bash-scripting-tutorial/) - Honestly my #1 go-to for Bash-related intro tutorials.
 
