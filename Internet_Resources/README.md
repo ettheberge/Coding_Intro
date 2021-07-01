@@ -50,4 +50,4 @@ This page is to supplement the great resources at UBC (ie. STAT 540 and 545) [he
 
 ## Twitter threads: A bit of everything
 
-[Dr. Michael Hoffman: "Folks with mainly biology training sometimes ask me for resources that can help them learn bioinformatics. This short thread has my recommendations at various levels."](https://twitter.com/michaelhoffman/status/1407143481479503873?s=21&fbclid=IwAR0as1P-vEFRwYV8weXYXwTLjD8AAvQO_F_YPWHVsgNZzBXpklE0Ut-IAWI)
+[I made a whole page for these](https://github.com/ettheberge/Coding_Intro/blob/main/Internet_Resources/Twitter_Resources.md)
