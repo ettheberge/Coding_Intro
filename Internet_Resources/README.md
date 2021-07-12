@@ -10,6 +10,8 @@ This page is to supplement the great resources at UBC (ie. STAT 540 and 545) [he
 - Coursera: [R Programming](https://www.coursera.org/learn/r-programming), [Getting & Cleaning data](https://www.coursera.org/learn/data-cleaning), [Exploratory data analysis](https://www.coursera.org/learn/exploratory-data-analysis) 
 - Datacamp: [R, Python, Shell, Git... Many courses to choose from!](https://www.datacamp.com/search?utf8=%E2%9C%93&q=&tab=courses&facets%5Btechnology%5D%5B%5D=R&facets%5Btechnology%5D%5B%5D=Python&facets%5Btechnology%5D%5B%5D=Shell)
 
+[Happy Git and Github](https://happygitwithr.com/ ) - Happy Git provides opinionated instructions on how to: Install Git and get it working smoothly with GitHub, in the shell and in the RStudio IDE, develop a few key workflows that cover your most common tasks, and integrate Git and GitHub into your daily work with R and R Markdown. 
+
 ## R/Statistics
 
 [Intro to the field of statistics (and R)](https://stat150.blog/) - A non-UBC course (all materials on the site) that I wish I could've self-taught from sooner. Very helpful resource that compliments UBC's STAT 545/540 (I would go through this course-->545-->540.)
